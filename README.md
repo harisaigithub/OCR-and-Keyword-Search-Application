@@ -87,6 +87,9 @@ The application has been deployed using Streamlit Sharing. Visit the live URL to
 - **Keyword**: `Hello`
 - **Search Result**: `Hello` will be highlighted in the extracted text.
 
+## Current Status
+- Exploring and improving: The team is currently working on enhancing the OCR model's ability to handle noisy images. Efforts are focused on improving text extraction accuracy, particularly for Hindi text, and refining the model to better process images with various noise levels.
+
 ## Screenshots
 Here are some screenshots of the web application in action:
 
