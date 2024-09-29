@@ -114,7 +114,7 @@ Here are some screenshots of the web application in action:
    - ![Screenshot (492)](https://github.com/user-attachments/assets/394df161-d897-4d78-80eb-00b46bcbddfd)
 
 ## VIDEO DEMOSTRATION:-
-   -OUTPUT
+   - #OUTPUT
 
 https://github.com/user-attachments/assets/59e2b5d6-4573-4a3e-8a63-b93c0435e741
 
