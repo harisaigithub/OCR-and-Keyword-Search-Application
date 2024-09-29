@@ -92,15 +92,31 @@ Here are some screenshots of the web application in action:
 
 1. **Main Page**: 
    - Allows image upload, displays extracted text, and provides a search functionality.
-   ![Main Page Screenshot](https://your-screenshot-link)
+   ![Main Page Screenshot]![Screenshot (485)](https://github.com/user-attachments/assets/aaf823b3-56e9-476e-9f90-2a0e00869f7f)
 
-2. **OCR Processing**: 
-   - Demonstrates text extraction from the uploaded image.
-   ![OCR Process Screenshot](https://your-screenshot-link)
-
-3. **Search Functionality**: 
+2. **OCR Processing Using In-Built Samples Files**: 
+   - Demonstrates text extraction from the sample image.
+   - ![OCR Process Screenshot]![Screenshot (486)](https://github.com/user-attachments/assets/7040088b-a553-4b9b-8086-4d0441ba0f2b)
+   
+2.1 **Search Functionality**: 
    - Shows the keyword search feature with highlighted results.
-   ![Search Result Screenshot](https://your-screenshot-link)
+   - ![OCR Process Screenshot]![Screenshot (487)](https://github.com/user-attachments/assets/e95a53df-ac74-4d64-a04c-d2d43fd68a52)
+   - ![Screenshot (488)](https://github.com/user-attachments/assets/c19c1666-1057-40e6-92d2-a2ced644fb44)
+
+3. **OCR Processing Using Upload Image**: 
+   - Demonstrates text extraction from the uploaded image.
+   - ![Screenshot (489)](https://github.com/user-attachments/assets/bee0a71a-9498-42be-b821-14bc0e7ff211)
+
+3.1 **Search Functionality**: 
+   - Shows the keyword search feature with highlighted results.
+   - ![Screenshot (490)](https://github.com/user-attachments/assets/5c3c0f52-01aa-4117-87f0-2e5c59e770f2)
+   - ![Screenshot (491)](https://github.com/user-attachments/assets/310fa513-465f-4bca-b46b-808151050ffa)
+   - ![Screenshot (492)](https://github.com/user-attachments/assets/394df161-d897-4d78-80eb-00b46bcbddfd)
+
+## VIDEO DEMOSTRATION:-
+   -https://github.com/user-attachments/assets/19a86d5d-a169-4abd-be0b-669580bc0dcd
+
+
 
 ## Latest Version of README
 You are reading the latest version of this README file. If there are any updates or improvements to this documentation, they will be reflected here.
