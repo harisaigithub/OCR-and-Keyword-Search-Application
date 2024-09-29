@@ -1,6 +1,3 @@
-It seems there is an issue with providing the download link. You can manually copy the content provided in the previous messages into your `README.md` file. Here is the content of the README file again:
-
-```markdown
 # OCR and Keyword Search Web Application Prototype
 
 **Author:** Parimal, IIT Roorkee  
