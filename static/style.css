@@ -135,6 +135,10 @@ footer .social-links a img {
     margin-bottom: 5px;
 }
 
+footer .social-links a:last-child {
+    margin-right: 40px; /* Margin only for the website logo */
+}
+
 footer .social-links a:hover {
     color: #ccc;
 }
