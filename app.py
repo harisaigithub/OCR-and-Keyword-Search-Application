@@ -126,7 +126,7 @@ st.markdown("""
                 <span style="font-size: 14px;">LinkedIn</span>
             </a>
             <a href="https://parasa-harisai-portfolio.netlify.app/" target="_blank" style="text-align: center;">
-                <img src="data:image/png;base64,{}" alt="Portfolio" width="40" height="40" style="display: block; margin-right: 0 auto;">
+                <img src="data:image/png;base64,{}" alt="Portfolio" width="40" height="40" style="display: block; margin-right: 40px;">
                 <span style="font-size: 14px;">Portfolio</span>
             </a>
         </div>

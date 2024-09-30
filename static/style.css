@@ -121,7 +121,13 @@ footer {
     left: 0;
 }
 
-footer .social-links a {
+footer .social-links {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+footer .social-links a, footer .social-links p {
     display: block;
     text-align: center;
     color: #fff;
@@ -145,15 +151,21 @@ footer .social-links a:hover {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    header, footer {
+    footer {
+        flex-direction: column;
         text-align: center;
     }
 
     footer .social-links {
-        flex-direction: column;
+        flex-direction: row;
+        gap: 10px;
     }
 
-    footer .social-links a {
+    footer .social-links a, footer .social-links p {
         margin-bottom: 10px;
+    }
+
+    footer .social-links a:last-child {
+        margin-right: 0; /* Remove right margin for small screens */
     }
 }
